@@ -1,0 +1,3209 @@
+.www-anu-edu-au-by {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.www-anu-edu-au-by .div {
+  width: 1920px;
+  height: 4727.86px;
+  position: relative;
+}
+
+.www-anu-edu-au-by .banner-header-banner {
+  position: absolute;
+  width: 1200px;
+  height: 136px;
+  top: 0;
+  left: 360px;
+}
+
+.www-anu-edu-au-by .overlap-group {
+  position: absolute;
+  width: 200px;
+  height: 184px;
+  top: 0;
+  left: -22px;
+}
+
+.www-anu-edu-au-by .before {
+  position: absolute;
+  width: 200px;
+  height: 88px;
+  top: 24px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.www-anu-edu-au-by .link-logo-ANU-black {
+  position: absolute;
+  width: 160px;
+  height: 56px;
+  top: 40px;
+  left: 0;
+  object-fit: cover;
+}
+
+.www-anu-edu-au-by .after {
+  height: 184px;
+  left: 22px;
+  position: absolute;
+  width: 1px;
+  top: 0;
+  background-color: #be830e;
+}
+
+.www-anu-edu-au-by .navbar {
+  position: absolute;
+  width: 512px;
+  height: 34px;
+  top: 102px;
+  left: 672px;
+}
+
+.www-anu-edu-au-by .item-link-newsroom {
+  width: 76px;
+  top: -1px;
+  left: 0;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-events {
+  width: 48px;
+  top: -1px;
+  left: 85px;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-safety {
+  width: 48px;
+  top: -1px;
+  left: 143px;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-maps {
+  width: 39px;
+  top: -1px;
+  left: 200px;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-services {
+  width: 62px;
+  top: -1px;
+  left: 249px;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-library {
+  width: 52px;
+  top: -1px;
+  left: 320px;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-jobs {
+  width: 32px;
+  top: -1px;
+  left: 382px;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link {
+  width: 79px;
+  top: -1px;
+  left: 423px;
+  color: #000000;
+  font-size: 14px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .navigation {
+  position: absolute;
+  width: 1920px;
+  height: 52px;
+  top: 136px;
+  left: 0;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .navbar-2 {
+  position: absolute;
+  width: 821px;
+  height: 52px;
+  top: 0;
+  left: 690px;
+}
+
+.www-anu-edu-au-by .symbol {
+  position: absolute;
+  width: 19px;
+  height: 16px;
+  top: 16px;
+  left: 12px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-about {
+  width: 49px;
+  top: 12px;
+  left: 59px;
+  color: #ffffff;
+  font-size: 16px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-study {
+  width: 48px;
+  top: 12px;
+  left: 136px;
+  color: #ffffff;
+  font-size: 16px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-research {
+  width: 75px;
+  top: 12px;
+  left: 211px;
+  color: #ffffff;
+  font-size: 16px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-giving {
+  width: 52px;
+  top: 12px;
+  left: 314px;
+  color: #ffffff;
+  font-size: 16px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-alumni {
+  width: 57px;
+  top: 12px;
+  left: 394px;
+  color: #ffffff;
+  font-size: 16px;
+  position: absolute;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-current {
+  position: absolute;
+  width: 140px;
+  height: 24px;
+  top: 12px;
+  left: 479px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-strategic {
+  position: absolute;
+  width: 160px;
+  height: 24px;
+  top: 12px;
+  left: 647px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 17px;
+  left: 1523px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main {
+  position: absolute;
+  width: 1920px;
+  height: 600px;
+  top: 188px;
+  left: 0;
+}
+
+.www-anu-edu-au-by .overlap {
+  position: relative;
+  height: 600px;
+}
+
+.www-anu-edu-au-by .section {
+  position: absolute;
+  width: 1920px;
+  height: 600px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .div-overlap-child-wrapper {
+  height: 600px;
+  background-image: url(./img/openday-homepage-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .div-overlap-child {
+  width: 1920px;
+  height: 600px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 15.65%, rgba(0, 0, 0, 0.64) 99.33%);
+}
+
+.www-anu-edu-au-by .div-col {
+  position: relative;
+  width: 591px;
+  height: 104px;
+  top: 416px;
+  left: 378px;
+}
+
+.www-anu-edu-au-by .heading-ANU-open {
+  position: absolute;
+  width: 440px;
+  height: 33px;
+  top: -1px;
+  left: 12px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30.4px;
+  letter-spacing: 0.3px;
+  line-height: 33.4px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link {
+  position: absolute;
+  width: 140px;
+  height: 41px;
+  top: 63px;
+  left: 12px;
+  background-color: #000000;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #7d7d7d;
+}
+
+.www-anu-edu-au-by .text-wrapper-2 {
+  position: absolute;
+  width: 98px;
+  height: 19px;
+  top: 10px;
+  left: 21px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator {
+  position: absolute;
+  width: 30px;
+  height: 10px;
+  top: 580px;
+  left: 882px;
+  background-color: #cc9e43;
+  border-radius: 7.48px;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator-2 {
+  left: 920px;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 580px;
+  background-color: #e2e3e4;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator-3 {
+  left: 938px;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 580px;
+  background-color: #e2e3e4;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator-4 {
+  left: 956px;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 580px;
+  background-color: #e2e3e4;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator-5 {
+  left: 974px;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 580px;
+  background-color: #e2e3e4;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator-6 {
+  left: 992px;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 580px;
+  background-color: #e2e3e4;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator-7 {
+  left: 1010px;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 580px;
+  background-color: #e2e3e4;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .div-anu-wf-rotator-8 {
+  left: 1028px;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 580px;
+  background-color: #e2e3e4;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .main-2 {
+  position: absolute;
+  width: 1920px;
+  height: 522px;
+  top: 788px;
+  left: 0;
+  background-image: url(./img/lightgrey-blobs-svg-fill.svg);
+  background-size: 100% 100%;
+}
+
+.www-anu-edu-au-by .heading {
+  position: absolute;
+  width: 193px;
+  height: 2px;
+  top: 76px;
+  left: 636px;
+  background-color: #be830e;
+}
+
+.www-anu-edu-au-by .heading-strong {
+  position: absolute;
+  width: 201px;
+  height: 33px;
+  top: 59px;
+  left: 860px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.4px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 33.4px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .heading-2 {
+  position: absolute;
+  width: 193px;
+  height: 2px;
+  top: 76px;
+  left: 1091px;
+  background-color: #be830e;
+}
+
+.www-anu-edu-au-by .search {
+  position: absolute;
+  width: 976px;
+  height: 50px;
+  top: 124px;
+  left: 472px;
+}
+
+.www-anu-edu-au-by .input {
+  position: absolute;
+  width: 904px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 20px 0px 0px 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #c6c6c6;
+}
+
+.www-anu-edu-au-by .div-placeholder {
+  position: relative;
+  width: 854px;
+  height: 15px;
+  top: 18px;
+  left: 25px;
+  border: none;
+  background: none;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #757575;
+  font-size: 12.6px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  padding: 0;
+  padding-left: 0;
+}
+
+.www-anu-edu-au-by .label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 0;
+  left: -10472px;
+  overflow: hidden;
+}
+
+.www-anu-edu-au-by .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  height: 19px;
+  top: -1px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .button-search {
+  position: absolute;
+  width: 72px;
+  height: 50px;
+  top: 0;
+  left: 904px;
+  background-color: #be830e;
+  border-radius: 0px 20px 20px 0px;
+}
+
+.www-anu-edu-au-by .symbol-2 {
+  width: 24px;
+  height: 24px;
+  top: 12px;
+  left: 24px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #000000;
+  font-size: 23.8px;
+  line-height: 24px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .overlap-group-wrapper {
+  position: absolute;
+  width: 276px;
+  height: 207px;
+  top: 204px;
+  left: 372px;
+  background-color: #000000;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.www-anu-edu-au-by .overlap-group-2 {
+  position: relative;
+  height: 207px;
+  background-image: url(./img/home-undergrad-thumbnail-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .after-2 {
+  position: absolute;
+  width: 276px;
+  height: 207px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
+  opacity: 0.7;
+}
+
+.www-anu-edu-au-by .p {
+  position: absolute;
+  width: 256px;
+  height: 21px;
+  top: 166px;
+  left: 10px;
+}
+
+.www-anu-edu-au-by .text-wrapper-4 {
+  position: absolute;
+  width: 222px;
+  height: 21px;
+  top: -2px;
+  left: 17px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.2px;
+  text-align: center;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .overlap-wrapper {
+  position: absolute;
+  width: 276px;
+  height: 207px;
+  top: 204px;
+  left: 672px;
+  background-color: #000000;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.www-anu-edu-au-by .overlap-2 {
+  position: relative;
+  height: 207px;
+  background-image: url(./img/home-postgrad-thumbnail-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .text-wrapper-5 {
+  position: absolute;
+  width: 208px;
+  height: 21px;
+  top: -2px;
+  left: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.2px;
+  text-align: center;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .div-wrapper {
+  position: absolute;
+  width: 276px;
+  height: 207px;
+  top: 204px;
+  left: 972px;
+  background-color: #000000;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.www-anu-edu-au-by .overlap-3 {
+  position: relative;
+  height: 207px;
+  background-image: url(./img/home-research-thumbnail-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .postgraduate-wrapper {
+  height: 42px;
+  top: 145px;
+  position: absolute;
+  width: 256px;
+  left: 10px;
+}
+
+.www-anu-edu-au-by .postgraduate {
+  position: absolute;
+  width: 207px;
+  height: 42px;
+  top: -2px;
+  left: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.2px;
+  text-align: center;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+}
+
+.www-anu-edu-au-by .link-2 {
+  position: absolute;
+  width: 276px;
+  height: 207px;
+  top: 204px;
+  left: 1272px;
+  background-color: #000000;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.www-anu-edu-au-by .overlap-4 {
+  position: relative;
+  height: 207px;
+  background-image: url(./img/home-international-thumbnail-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .text-wrapper-6 {
+  position: absolute;
+  width: 201px;
+  height: 21px;
+  top: -2px;
+  left: 28px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.2px;
+  text-align: center;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-7 {
+  position: absolute;
+  width: 192px;
+  height: 21px;
+  top: 449px;
+  left: 372px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.2px;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-3 {
+  position: absolute;
+  width: 124px;
+  height: 41px;
+  top: 441px;
+  left: 584px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-8 {
+  position: absolute;
+  width: 103px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-4 {
+  position: absolute;
+  width: 123px;
+  height: 41px;
+  top: 441px;
+  left: 718px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-9 {
+  width: 101px;
+  top: 10px;
+  left: 11px;
+  position: absolute;
+  height: 19px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-5 {
+  position: absolute;
+  width: 152px;
+  height: 41px;
+  top: 441px;
+  left: 851px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-10 {
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .fees-payments-wrapper {
+  position: absolute;
+  width: 149px;
+  height: 41px;
+  top: 441px;
+  left: 1012px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .fees-payments {
+  position: absolute;
+  width: 128px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-6 {
+  position: absolute;
+  width: 118px;
+  height: 41px;
+  top: 441px;
+  left: 1172px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-11 {
+  position: absolute;
+  width: 97px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-7 {
+  position: absolute;
+  width: 143px;
+  height: 41px;
+  top: 441px;
+  left: 1300px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-12 {
+  position: absolute;
+  width: 121px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-heading {
+  position: absolute;
+  width: 205px;
+  height: 2px;
+  top: 1397px;
+  left: 636px;
+  background-color: #be830e;
+}
+
+.www-anu-edu-au-by .main-heading-2 {
+  position: absolute;
+  width: 177px;
+  height: 33px;
+  top: 1380px;
+  left: 871px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.4px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 33.4px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-heading-3 {
+  position: absolute;
+  width: 205px;
+  height: 2px;
+  top: 1397px;
+  left: 1079px;
+  background-color: #be830e;
+}
+
+.www-anu-edu-au-by .main-3 {
+  position: absolute;
+  width: 1176px;
+  height: 507px;
+  top: 1445px;
+  left: 372px;
+}
+
+.www-anu-edu-au-by .overlap-5 {
+  position: relative;
+  height: 507px;
+}
+
+.www-anu-edu-au-by .div-col-lg {
+  position: absolute;
+  width: 442px;
+  height: 507px;
+  top: 0;
+  left: 0;
+}
+
+.www-anu-edu-au-by .div-shadow-light {
+  position: relative;
+  height: 507px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0px 12px 32px -6px #7f7f7f4c;
+}
+
+.www-anu-edu-au-by .p-bg-tint {
+  position: absolute;
+  width: 165px;
+  height: 36px;
+  top: 46px;
+  left: 30px;
+  background-color: #f5edde;
+  border-radius: 10px;
+}
+
+.www-anu-edu-au-by .text-wrapper-13 {
+  position: absolute;
+  width: 146px;
+  height: 24px;
+  top: 4px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .heading-strong-2 {
+  position: absolute;
+  width: 363px;
+  height: 167px;
+  top: 100px;
+  left: 30px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.4px;
+  letter-spacing: 0.3px;
+  line-height: 33.4px;
+}
+
+.www-anu-edu-au-by .a-first-of-its-kind {
+  position: absolute;
+  width: 380px;
+  height: 144px;
+  top: 288px;
+  left: 30px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .link-read-more {
+  position: absolute;
+  width: 96px;
+  height: 24px;
+  top: 452px;
+  left: 316px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #146ebd;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .element-vaporizers {
+  position: absolute;
+  width: 784px;
+  height: 500px;
+  top: 4px;
+  left: 392px;
+  background-image: url(./img/20220406-vaporizers-9-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .main-heading-link {
+  position: absolute;
+  width: 255px;
+  height: 42px;
+  top: 2156px;
+  left: 382px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.2px;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+}
+
+.www-anu-edu-au-by .main-4 {
+  position: absolute;
+  width: 276px;
+  height: 156px;
+  top: 1982px;
+  left: 372px;
+}
+
+.www-anu-edu-au-by .p-bg-tint-wrapper {
+  height: 156px;
+  border-radius: 10px 10px 0px 0px;
+  background-image: url(./img/link-news-20231015-kangarootime-02264-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .news-highlight-wrapper {
+  position: relative;
+  width: 143px;
+  height: 32px;
+  top: 113px;
+  left: 10px;
+  background-color: #f5edde;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .news-highlight {
+  position: absolute;
+  width: 124px;
+  height: 20px;
+  top: 5px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13.6px;
+  letter-spacing: 0.34px;
+  line-height: 20.4px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-heading-link-2 {
+  width: 252px;
+  left: 682px;
+  position: absolute;
+  height: 63px;
+  top: 2156px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.2px;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+}
+
+.www-anu-edu-au-by .main-5 {
+  position: absolute;
+  width: 276px;
+  height: 156px;
+  top: 1982px;
+  left: 672px;
+}
+
+.www-anu-edu-au-by .overlap-6 {
+  height: 156px;
+  border-radius: 10px 10px 0px 0px;
+  background-image: url(./img/link-news-alex-maier-student-1920-1400x788-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .main-heading-link-3 {
+  width: 240px;
+  left: 982px;
+  position: absolute;
+  height: 63px;
+  top: 2156px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.2px;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+}
+
+.www-anu-edu-au-by .main-6 {
+  position: absolute;
+  width: 276px;
+  height: 156px;
+  top: 1982px;
+  left: 972px;
+}
+
+.www-anu-edu-au-by .overlap-7 {
+  height: 156px;
+  border-radius: 10px 10px 0px 0px;
+  background-image: url(./img/link-news-pseudomys-pilbarensis-ian-bool-between-oscarrange.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .research-wrapper {
+  position: relative;
+  width: 96px;
+  height: 32px;
+  top: 113px;
+  left: 10px;
+  background-color: #f5edde;
+  border-radius: 5px;
+}
+
+.www-anu-edu-au-by .research {
+  position: absolute;
+  width: 77px;
+  height: 20px;
+  top: 5px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13.6px;
+  letter-spacing: 0.34px;
+  line-height: 20.4px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-7 {
+  position: absolute;
+  width: 276px;
+  height: 260px;
+  top: 1982px;
+  left: 1272px;
+  background-color: #f5edde;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.www-anu-edu-au-by .right-arrow-with-bg {
+  position: absolute;
+  width: 64px;
+  height: 66px;
+  top: 20px;
+  left: 30px;
+}
+
+.www-anu-edu-au-by .heading-link-more {
+  position: absolute;
+  width: 186px;
+  height: 25px;
+  top: 105px;
+  left: 30px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .heading-link-VC-s {
+  position: absolute;
+  width: 116px;
+  height: 25px;
+  top: 149px;
+  left: 30px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .heading-link-for {
+  position: absolute;
+  width: 169px;
+  height: 25px;
+  top: 194px;
+  left: 30px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .div-overlap-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 400px;
+  top: 2282px;
+  left: 0;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .div-overlap {
+  height: 400px;
+  background-image: url(./img/inpage-banner-20-281-29-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .div-bg-black {
+  position: relative;
+  width: 408px;
+  height: 132px;
+  top: 218px;
+  left: 372px;
+  background-color: #000000b2;
+}
+
+.www-anu-edu-au-by .heading-link-apply {
+  position: absolute;
+  width: 348px;
+  height: 33px;
+  top: 28px;
+  left: 30px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30.4px;
+  letter-spacing: 0.3px;
+  line-height: 33.4px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-14 {
+  position: absolute;
+  width: 332px;
+  height: 19px;
+  top: 82px;
+  left: 30px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-8 {
+  position: absolute;
+  width: 306px;
+  height: 322px;
+  top: 2722px;
+  left: 322px;
+  border-left-width: 3px;
+  border-left-style: solid;
+  border-color: #be830e;
+}
+
+.www-anu-edu-au-by .home-banner-icon-png {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 0;
+  left: 23px;
+  background-image: url(./img/home-banner-icon-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .heading-strong-3 {
+  position: absolute;
+  width: 170px;
+  height: 74px;
+  top: 106px;
+  left: 23px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.4px;
+  letter-spacing: 0.3px;
+  line-height: 33.4px;
+}
+
+.www-anu-edu-au-by .ANU-research {
+  position: absolute;
+  width: 279px;
+  height: 79px;
+  top: 189px;
+  left: 23px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .link-8 {
+  position: absolute;
+  width: 283px;
+  height: 41px;
+  top: 281px;
+  left: 23px;
+  background-color: #000000;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #7d7d7d;
+}
+
+.www-anu-edu-au-by .text-wrapper-15 {
+  position: absolute;
+  width: 85px;
+  height: 19px;
+  top: 10px;
+  left: 99px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-9 {
+  position: absolute;
+  width: 268px;
+  height: 321px;
+  top: 2722px;
+  left: 672px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: #e6e6e6;
+}
+
+.www-anu-edu-au-by .link-research {
+  background-image: url(./img/link-research-culture-creativity-societies-255b1-255d-jpg.png);
+  position: absolute;
+  width: 268px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0px 0px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .heading-strong-4 {
+  position: absolute;
+  width: 220px;
+  height: 49px;
+  top: 157px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+}
+
+.www-anu-edu-au-by .understanding {
+  position: absolute;
+  width: 247px;
+  height: 72px;
+  top: 222px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .main-10 {
+  position: absolute;
+  width: 268px;
+  height: 321px;
+  top: 2722px;
+  left: 964px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: #e6e6e6;
+}
+
+.www-anu-edu-au-by .link-research-2 {
+  background-image: url(./img/link-research-213263170-jpg.png);
+  position: absolute;
+  width: 268px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0px 0px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .heading-strong-5 {
+  width: 166px;
+  height: 49px;
+  position: absolute;
+  top: 157px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+}
+
+.www-anu-edu-au-by .sustainable-use-of {
+  position: absolute;
+  width: 244px;
+  height: 48px;
+  top: 222px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .main-11 {
+  position: absolute;
+  width: 268px;
+  height: 321px;
+  top: 2722px;
+  left: 1256px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: #e6e6e6;
+}
+
+.www-anu-edu-au-by .link-research-future {
+  background-image: url(./img/link-research-future-security-653881644-jpg.png);
+  position: absolute;
+  width: 268px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0px 0px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .heading-strong-6 {
+  width: 184px;
+  height: 25px;
+  white-space: nowrap;
+  position: absolute;
+  top: 157px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+}
+
+.www-anu-edu-au-by .a-secure-stable-and {
+  position: absolute;
+  width: 236px;
+  height: 48px;
+  top: 198px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .main-12 {
+  position: absolute;
+  width: 268px;
+  height: 321px;
+  top: 3063px;
+  left: 672px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: #e6e6e6;
+}
+
+.www-anu-edu-au-by .link-research-3 {
+  background-image: url(./img/link-research-220889020-jpg.png);
+  position: absolute;
+  width: 268px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0px 0px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .heading-strong-7 {
+  width: 217px;
+  height: 25px;
+  white-space: nowrap;
+  position: absolute;
+  top: 157px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+}
+
+.www-anu-edu-au-by .better-health-for {
+  position: absolute;
+  width: 221px;
+  height: 48px;
+  top: 198px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .main-13 {
+  position: absolute;
+  width: 268px;
+  height: 321px;
+  top: 3063px;
+  left: 964px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: #e6e6e6;
+}
+
+.www-anu-edu-au-by .link-research-4 {
+  background-image: url(./img/link-research-137128250-jpg.png);
+  position: absolute;
+  width: 268px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0px 0px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .heading-strong-8 {
+  width: 233px;
+  height: 49px;
+  position: absolute;
+  top: 157px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+}
+
+.www-anu-edu-au-by .engagement-and {
+  position: absolute;
+  width: 227px;
+  height: 72px;
+  top: 222px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .main-14 {
+  position: absolute;
+  width: 268px;
+  height: 321px;
+  top: 3063px;
+  left: 1256px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: #e6e6e6;
+}
+
+.www-anu-edu-au-by .link-research-5 {
+  background-image: url(./img/link-research-224449420-jpg.png);
+  position: absolute;
+  width: 268px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0px 0px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-anu-edu-au-by .heading-strong-9 {
+  width: 225px;
+  height: 49px;
+  position: absolute;
+  top: 157px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+}
+
+.www-anu-edu-au-by .solving-deep {
+  position: absolute;
+  width: 245px;
+  height: 72px;
+  top: 222px;
+  left: 10px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .main-footer-find-out {
+  position: absolute;
+  width: 187px;
+  height: 21px;
+  top: 3422px;
+  left: 672px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.2px;
+  letter-spacing: 0.19px;
+  line-height: 21.1px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-footer-link {
+  position: absolute;
+  width: 166px;
+  height: 41px;
+  top: 3455px;
+  left: 672px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-16 {
+  position: absolute;
+  width: 146px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-footer-link-2 {
+  width: 137px;
+  left: 848px;
+  position: absolute;
+  height: 41px;
+  top: 3455px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-17 {
+  position: absolute;
+  width: 115px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-footer-link-3 {
+  width: 234px;
+  left: 995px;
+  position: absolute;
+  height: 41px;
+  top: 3455px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-18 {
+  position: absolute;
+  width: 212px;
+  height: 19px;
+  top: 10px;
+  left: 11px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .main-15 {
+  position: absolute;
+  width: 1920px;
+  height: 594px;
+  top: 3506px;
+  left: 0;
+  background-image: url(./img/bg-waves-svg-fill.svg);
+  background-size: 100% 100%;
+}
+
+.www-anu-edu-au-by .heading-3 {
+  position: absolute;
+  width: 166px;
+  height: 2px;
+  top: 76px;
+  left: 636px;
+  background-color: #be830e;
+}
+
+.www-anu-edu-au-by .heading-strong-10 {
+  position: absolute;
+  width: 255px;
+  height: 33px;
+  top: 59px;
+  left: 833px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.4px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  line-height: 33.4px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .heading-4 {
+  position: absolute;
+  width: 166px;
+  height: 2px;
+  top: 76px;
+  left: 1118px;
+  background-color: #be830e;
+}
+
+.www-anu-edu-au-by .div-col-lg-2 {
+  position: absolute;
+  width: 300px;
+  height: 470px;
+  top: 124px;
+  left: 360px;
+}
+
+.www-anu-edu-au-by .p-large {
+  position: absolute;
+  width: 276px;
+  height: 24px;
+  top: 20px;
+  left: 12px;
+  border-left-width: 3px;
+  border-left-style: solid;
+  border-color: #be830e;
+}
+
+.www-anu-edu-au-by .academic-colleges {
+  position: absolute;
+  width: 223px;
+  height: 24px;
+  top: -3px;
+  left: 13px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .list {
+  height: 334px;
+  left: 12px;
+  position: absolute;
+  width: 276px;
+  top: 64px;
+}
+
+.www-anu-edu-au-by .item-link-ANU {
+  width: 226px;
+  height: 48px;
+  top: -2px;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .item-link-ANU-2 {
+  width: 273px;
+  height: 24px;
+  top: 56px;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .item-link-ANU-3 {
+  width: 210px;
+  height: 48px;
+  top: 90px;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .item-link-ANU-4 {
+  width: 229px;
+  height: 48px;
+  top: 148px;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .item-link-ANU-5 {
+  width: 267px;
+  height: 48px;
+  top: 206px;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .item-link-ANU-6 {
+  width: 168px;
+  height: 24px;
+  top: 264px;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .item-link-ANU-7 {
+  width: 199px;
+  height: 24px;
+  top: 298px;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .div-col-2 {
+  height: 216px;
+  top: 124px;
+  left: 670px;
+  position: absolute;
+  width: 280px;
+}
+
+.www-anu-edu-au-by .p-large-2 {
+  position: absolute;
+  width: 276px;
+  height: 24px;
+  top: 20px;
+  left: 2px;
+  border-left-width: 3px;
+  border-left-style: solid;
+  border-color: #be830e;
+}
+
+.www-anu-edu-au-by .admission {
+  position: absolute;
+  width: 119px;
+  height: 24px;
+  top: -3px;
+  left: 13px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .list-2 {
+  height: 136px;
+  left: 2px;
+  position: absolute;
+  width: 276px;
+  top: 64px;
+}
+
+.www-anu-edu-au-by .item-link-2 {
+  width: 130px;
+  top: -2px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-3 {
+  width: 113px;
+  top: 32px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-4 {
+  width: 213px;
+  top: 66px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-5 {
+  width: 190px;
+  top: 100px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .div-col-3 {
+  height: 250px;
+  top: 344px;
+  left: 670px;
+  position: absolute;
+  width: 280px;
+}
+
+.www-anu-edu-au-by .research-2 {
+  position: absolute;
+  width: 113px;
+  height: 24px;
+  top: -3px;
+  left: 13px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .list-3 {
+  position: absolute;
+  width: 276px;
+  height: 170px;
+  top: 64px;
+  left: 2px;
+}
+
+.www-anu-edu-au-by .item-link-researcher {
+  position: absolute;
+  width: 158px;
+  height: 24px;
+  top: -2px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-expert {
+  position: absolute;
+  width: 188px;
+  height: 24px;
+  top: 32px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-library-2 {
+  position: absolute;
+  width: 144px;
+  height: 24px;
+  top: 66px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-ANU-press {
+  width: 96px;
+  height: 24px;
+  top: 100px;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .item-link-ANU-8 {
+  width: 120px;
+  height: 24px;
+  top: 134px;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .div-col-4 {
+  height: 250px;
+  top: 124px;
+  left: 970px;
+  position: absolute;
+  width: 280px;
+}
+
+.www-anu-edu-au-by .resources {
+  position: absolute;
+  width: 125px;
+  height: 24px;
+  top: -3px;
+  left: 13px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-maps-2 {
+  width: 55px;
+  top: -2px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-jobs-2 {
+  width: 47px;
+  top: 32px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-safety-2 {
+  width: 64px;
+  top: 66px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-calendar {
+  width: 83px;
+  top: 100px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-websites {
+  width: 84px;
+  top: 134px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .div-col-5 {
+  height: 182px;
+  top: 378px;
+  left: 970px;
+  position: absolute;
+  width: 280px;
+}
+
+.www-anu-edu-au-by .divisions {
+  position: absolute;
+  width: 106px;
+  height: 24px;
+  top: -3px;
+  left: 13px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .list-4 {
+  height: 102px;
+  left: 2px;
+  position: absolute;
+  width: 276px;
+  top: 64px;
+}
+
+.www-anu-edu-au-by .item-link-business {
+  position: absolute;
+  width: 126px;
+  height: 24px;
+  top: -2px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-staff {
+  position: absolute;
+  width: 127px;
+  height: 24px;
+  top: 32px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .item-link-systems {
+  width: 79px;
+  top: 66px;
+  position: absolute;
+  height: 24px;
+  left: 0;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-9 {
+  position: absolute;
+  width: 276px;
+  height: 46px;
+  top: 134px;
+  left: 1272px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .gold {
+  height: 20px;
+  top: 11px;
+  position: absolute;
+  width: 20px;
+  left: 11px;
+}
+
+.www-anu-edu-au-by .text-wrapper-19 {
+  width: 108px;
+  top: 11px;
+  left: 41px;
+  position: absolute;
+  height: 19px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-10 {
+  position: absolute;
+  width: 276px;
+  height: 44px;
+  top: 198px;
+  left: 1272px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .sui-gold {
+  height: 18px;
+  top: 11px;
+  position: absolute;
+  width: 20px;
+  left: 11px;
+}
+
+.www-anu-edu-au-by .text-wrapper-20 {
+  position: absolute;
+  width: 90px;
+  height: 19px;
+  top: 10px;
+  left: 41px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-11 {
+  position: absolute;
+  width: 276px;
+  height: 42px;
+  top: 260px;
+  left: 1272px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .img {
+  height: 15px;
+  top: 13px;
+  position: absolute;
+  width: 20px;
+  left: 11px;
+}
+
+.www-anu-edu-au-by .text-wrapper-21 {
+  position: absolute;
+  width: 111px;
+  height: 19px;
+  top: 10px;
+  left: 41px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-12 {
+  position: absolute;
+  width: 276px;
+  height: 46px;
+  top: 321px;
+  left: 1272px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #e6e6e6;
+  box-shadow: 0px 1px 5px #0000001a;
+}
+
+.www-anu-edu-au-by .text-wrapper-22 {
+  position: absolute;
+  width: 80px;
+  height: 19px;
+  top: 11px;
+  left: 41px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .region {
+  position: absolute;
+  width: 1920px;
+  height: 113px;
+  top: 4100px;
+  left: 0;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .div-row {
+  position: relative;
+  width: 1160px;
+  height: 113px;
+  left: 396px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #808080;
+}
+
+.www-anu-edu-au-by .div-anu-wf-social {
+  position: relative;
+  width: 1104px;
+  height: 32px;
+  top: 40px;
+  left: 28px;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .overlap-group-3 {
+  position: relative;
+  width: 228px;
+  height: 32px;
+  top: -1px;
+  left: 856px;
+}
+
+.www-anu-edu-au-by .symbol-3 {
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #be830e;
+  font-size: 32px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-4 {
+  width: 60px;
+  height: 32px;
+  top: 0;
+  left: 11px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 16px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-5 {
+  width: 29px;
+  height: 32px;
+  top: 0;
+  left: 50px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #be830e;
+  font-size: 32px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-6 {
+  width: 63px;
+  height: 32px;
+  top: 0;
+  left: 58px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 16px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-7 {
+  width: 30px;
+  height: 32px;
+  top: 0;
+  left: 100px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #be830e;
+  font-size: 32px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-8 {
+  width: 62px;
+  height: 32px;
+  top: 0;
+  left: 109px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 16px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-9 {
+  width: 28px;
+  height: 32px;
+  top: 0;
+  left: 150px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #be830e;
+  font-size: 32px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-10 {
+  width: 64px;
+  height: 32px;
+  top: 0;
+  left: 157px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 16px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-11 {
+  width: 28px;
+  height: 32px;
+  top: 0;
+  left: 200px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #be830e;
+  font-size: 32px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .symbol-12 {
+  width: 18px;
+  height: 32px;
+  top: 0;
+  left: 207px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 16px;
+  line-height: 32px;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .footer-footer-banner {
+  position: absolute;
+  width: 1920px;
+  height: 515px;
+  top: 4213px;
+  left: 0;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .div-anu-container {
+  position: relative;
+  width: 1200px;
+  height: 515px;
+  left: 360px;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .overlap-8 {
+  position: absolute;
+  width: 1164px;
+  height: 511px;
+  top: -26px;
+  left: 36px;
+}
+
+.www-anu-edu-au-by .link-13 {
+  position: absolute;
+  width: 47px;
+  height: 52px;
+  top: 0;
+  left: 1117px;
+}
+
+.www-anu-edu-au-by .div-anu-col {
+  position: absolute;
+  width: 1160px;
+  height: 469px;
+  top: 42px;
+  left: 0;
+}
+
+.www-anu-edu-au-by .link-logo-APRU-svg {
+  width: 123px;
+  height: 39px;
+  left: 375px;
+  position: absolute;
+  top: 50px;
+  object-fit: cover;
+}
+
+.www-anu-edu-au-by .link-logo-IARU-svg {
+  width: 154px;
+  height: 38px;
+  left: 574px;
+  position: absolute;
+  top: 50px;
+  object-fit: cover;
+}
+
+.www-anu-edu-au-by .link-logo-EDX-svg {
+  width: 79px;
+  height: 37px;
+  left: 773px;
+  position: absolute;
+  top: 50px;
+  object-fit: cover;
+}
+
+.www-anu-edu-au-by .link-logo {
+  position: absolute;
+  width: 140px;
+  height: 71px;
+  top: 50px;
+  left: 973px;
+  object-fit: cover;
+}
+
+.www-anu-edu-au-by .div-anu-col-lg {
+  position: absolute;
+  width: 399px;
+  height: 76px;
+  top: 50px;
+  left: -61px;
+}
+
+.www-anu-edu-au-by .logo-ANU-svg-wrapper {
+  position: relative;
+  height: 92px;
+  top: -16px;
+  background-color: #000000;
+}
+
+.www-anu-edu-au-by .logo-ANU-svg {
+  position: absolute;
+  width: 160px;
+  height: 56px;
+  top: 16px;
+  left: 2px;
+}
+
+.www-anu-edu-au-by .div-anu-col-lg-2 {
+  position: absolute;
+  width: 967px;
+  height: 129px;
+  top: 156px;
+  left: 0;
+}
+
+.www-anu-edu-au-by .text-wrapper-23 {
+  position: absolute;
+  width: 316px;
+  height: 25px;
+  top: -1px;
+  left: 12px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22.4px;
+  letter-spacing: 0.22px;
+  line-height: 24.6px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .the-australian {
+  position: absolute;
+  width: 899px;
+  height: 72px;
+  top: 39px;
+  left: 12px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+.www-anu-edu-au-by .separator {
+  position: absolute;
+  width: 1136px;
+  height: 2px;
+  top: 293px;
+  left: 12px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.www-anu-edu-au-by .div-anu-col-2 {
+  position: absolute;
+  width: 1160px;
+  height: 166px;
+  top: 303px;
+  left: 0;
+}
+
+.www-anu-edu-au-by .link-contact-ANU {
+  position: absolute;
+  width: 102px;
+  height: 24px;
+  top: 45px;
+  left: 12px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-14 {
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  top: 44px;
+  left: 125px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-copyright {
+  position: absolute;
+  width: 77px;
+  height: 24px;
+  top: 45px;
+  left: 142px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-15 {
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  top: 44px;
+  left: 231px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-disclaimer {
+  position: absolute;
+  width: 83px;
+  height: 24px;
+  top: 45px;
+  left: 247px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-16 {
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  top: 44px;
+  left: 342px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-privacy {
+  position: absolute;
+  width: 57px;
+  height: 24px;
+  top: 45px;
+  left: 359px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-17 {
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  top: 44px;
+  left: 428px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .link-freedom-of {
+  position: absolute;
+  width: 184px;
+  height: 24px;
+  top: 45px;
+  left: 444px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-24 {
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 84px;
+  left: 12px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-25 {
+  top: 84px;
+  left: 147px;
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-26 {
+  position: absolute;
+  width: 347px;
+  height: 24px;
+  top: 85px;
+  left: 164px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-27 {
+  position: absolute;
+  width: 415px;
+  height: 24px;
+  top: 124px;
+  left: 12px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-28 {
+  top: 124px;
+  left: 439px;
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-29 {
+  position: absolute;
+  width: 248px;
+  height: 24px;
+  top: 124px;
+  left: 455px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-30 {
+  top: 124px;
+  left: 715px;
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .text-wrapper-31 {
+  position: absolute;
+  width: 170px;
+  height: 24px;
+  top: 125px;
+  left: 732px;
+  font-family: "Public Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-anu-edu-au-by .after-3 {
+  height: 515px;
+  left: 0;
+  position: absolute;
+  width: 1px;
+  top: 0;
+  background-color: #be830e;
+}
